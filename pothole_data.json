@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "timestamp": "2025-11-19T11:24:13.467208",
+    "location": {
+      "latitude": 28.6519,
+      "longitude": 77.2315,
+      "address": "Delhi, Delhi, IN",
+      "city": "Delhi",
+      "country": "IN",
+      "timestamp": "2025-11-19T11:24:13.466924"
+    },
+    "confidence": 0.4497605562210083,
+    "latitude": 28.6519,
+    "longitude": 77.2315,
+    "address": "Delhi, Delhi, IN",
+    "city": "Delhi"
+  }
+]
